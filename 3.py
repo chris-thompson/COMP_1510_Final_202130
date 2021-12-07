@@ -13,11 +13,14 @@ a.	opens genome.txt
 b.	calculates the total length of the DNA strand (the number of characters)
 c.	calculates the percentage of A, C, G, and T nucleotides in the DNA strand
 d.	calculates the length of the longest sequence of G in the DNA strand
+e.  calculates the number of times the sequence CAT appears in the DNA strand (meow)
 e.	creates a new file called exam.txt to store these statistics. The exam.txt file must contain
 three lines of information where XX are either integers or floating point numbers as appropriate:
+
     The total length of the DNA strand is XX characters.
     The percentages of A, C, G, and T are XX.XX, XX.XX, XX.XX, and XX.XX.
     The longest sequence of Gs in the DNA strand is composed of XX Gs.
+    The sequence CAT appears in the DNA strand XX times.
 
 No documentation or testing is required.
 
